@@ -1,6 +1,4 @@
 <?php
-// الاتصال بقاعدة البيانات
-include 'admin/db.php';
 
 // جلب المواد من قاعدة البيانات
 $sql = "SELECT * FROM subjects";
